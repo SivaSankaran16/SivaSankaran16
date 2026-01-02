@@ -7,7 +7,7 @@ Machine Learning Student
 * 🌍  I'm based in india
 * ✉️  You can contact me at [chandrasankar2003@gmail.com](mailto:chandrasankar2003@gmail.com)
 * 🤝  I'm open to collaborating on Machine Learning Related Projects
-* ⚡  Ask Me about Python, Java.
+* ⚡  Ask Me about Python, Gen-ai, Ml.
 
 ### Skills
 
